@@ -1,0 +1,13 @@
+{
+  "block_cpu_limit": 99900,
+  "block_net_limit": 1048576,
+  "head_block_id": "000426ad59abbdb12b7560daed4b06e87d0c10f0120532cf9ca25f8b565ed8c8",
+  "head_block_num": 272045,
+  "head_block_producer": "eosio",
+  "head_block_time": "2018-05-25T23:00:18.000",
+  "last_irreversible_block_id": "0004387c4546678f3c4542a9f560fbb0db56d607abcf2fbf99403562369cbd05",
+  "last_irreversible_block_num": 276604,
+  "server_version": "749a6759",
+  "virtual_block_cpu_limit": 100000000,
+  "virtual_block_net_limit": 1048576000
+}
